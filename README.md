@@ -2,7 +2,7 @@
 
 Jupyter Notebooks for the Coursera course "Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames", Spark assignments.
 
-<h3> Assignment 1 </h3>
+<h3> Assignment 1 (Week 4) </h3>
 Counting number of the mutual friends
 
 For each user having ID in the column userId count the amount of his / her common friends with each other user having ID in the column userId.
